@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4wangyu/been.git"
+    "url": "git+https://github.com/0x3175/been.git"
   },
-  "author": "4wangyu@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/4wangyu/been/issues"
+    "url": "https://github.com/0x3175/been/issues"
   },
-  "homepage": "https://github.com/4wangyu/been#readme"
+  "homepage": "https://github.com/0x3175/been#readme"
 }
